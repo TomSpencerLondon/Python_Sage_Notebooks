@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3e3a050-0c24-4c5e-a869-cc238243cbf1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="9ebd56cc-9c8d-4b21-975d-7189ee5a2071" />
+  <component name="ProjectId" id="1e7OtmWkBKJrs06lZYnexxmkDFL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3e3a050-0c24-4c5e-a869-cc238243cbf1" name="Default Changelist" comment="" />
+      <created>1593669382131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593669382131</updated>
+      <workItem from="1593669387201" duration="333000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="561" y="253" width="670" height="676" key="search.everywhere.popup" timestamp="1593669408128">
+      <screen x="0" y="23" width="1792" height="998" />
+    </state>
+    <state x="561" y="253" width="670" height="676" key="search.everywhere.popup/-1920.-512.1920.1057/0.23.1792.998@0.23.1792.998" timestamp="1593669408128" />
+  </component>
+</project>
